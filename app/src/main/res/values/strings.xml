@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Restaurants</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_restaurant_menu_items">Restaurant Menu Items</string>
+    <string name="title_activity_checkout_order">Checkout Order</string>
+</resources>
